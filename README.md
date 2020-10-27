@@ -5,3 +5,5 @@ Each directory is a different challenge, and include:
     * My naive solution.
     * A refined solution.
     * The optimal solution that I can find (if any).
+
+The directory name is formatted as: nameOfProblem_DifficultyOfProblem.
